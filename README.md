@@ -6,9 +6,12 @@
 - 🎨 I enjoy creating user-friendly designs using **Figma**.
 
 ### 🛠️ Technical Skills
-- **Languages:** Python (NumPy, SciPy), Java, R, SQL, PHP.
-- **Design & Tools:** Figma (UI/UX), Power BI, Excel.
-- **Database:** Oracle SQL 10g.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ### 📂 Top Projects
 - **[Home Selling Website](link-to-repo):** A UI/UX project designed in Figma.
