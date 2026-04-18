@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Kunal Mistari 👋
 
-<!--
-**mistaribaba/mistaribaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🚀 I am a 2nd-year **AI & Machine Learning** student at K.K. Wagh College.
+- 💻 Passionate about **Python programming** and **Data Visualization**.
+- 🎨 I enjoy creating user-friendly designs using **Figma**.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+- **Languages:** Python (NumPy, SciPy), Java, R, SQL, PHP.
+- **Design & Tools:** Figma (UI/UX), Power BI, Excel.
+- **Database:** Oracle SQL 10g.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Top Projects
+- **[Home Selling Website](link-to-repo):** A UI/UX project designed in Figma.
+- **[Online Course Enrollment System](link-to-repo):** A database-driven management project.
+  
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mistaribaba&show_icons=true&theme=radical)
+
+### 📫 How to reach me
+- **LinkedIn:** 
