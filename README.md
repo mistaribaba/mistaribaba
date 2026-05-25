@@ -14,6 +14,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ### 📂 Top Projects
+- **[Kali Easy Install Manager](https://github.com/mistaribaba/kali-easy-install): A professional GUI-based .deb package manager for Kali Linux with automatic dependency resolution.
 - **[Home Selling Website](link-to-repo):** A UI/UX project designed in Figma.
 - **[Online Course Enrollment System](link-to-repo):** A database-driven management project.
   
