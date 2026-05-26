@@ -15,9 +15,8 @@
 
 ### 📂 Top Projects
 - **[Kali Easy Install Manager](https://github.com/mistaribaba/kali-easy-install):** A professional GUI-based .deb package manager for Kali Linux with automatic dependency resolution.
-- **[Home Selling Website]((https://www.figma.com/design/oXSwOLOlrsmtzkVXNvSFTx/PR2?node-id=8-3&t=g5dXWZAP5RISITCw-1)):** A UI/UX project designed in Figma.
+- **[Home Selling Website](https://www.figma.com/design/oXSwOLOlrsmtzkVXNvSFTx/PR2?node-id=8-3&t=g5dXWZAP5RISITCw-1):** A UI/UX project designed in Figma.
 - **[Online Course Enrollment System](link-to-repo):** A database-driven management project.
-  
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mistaribaba&show_icons=true&theme=radical)
